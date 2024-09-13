@@ -10,7 +10,6 @@ Project Kirby DX is a non-profit unofficial kirby fan-game with the main purpose
 > - **1-2** (Unfinished)
 > - **1-3** (Unfinished) 
 > - **1-4** (Unfinished)
-> - **1-5** (Unifinished)
 > - **Boss 1** (Unfinished)
 
 # UNDER PRODUCTION
